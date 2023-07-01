@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.0faea6d2.css",
+    "main.js": "/react-portfolio/static/js/main.2547f836.js",
+    "static/media/profile.jpg": "/react-portfolio/static/media/profile.cae656048dad93d7bebc.jpg",
+    "static/media/work1.jpg": "/react-portfolio/static/media/work1.2035fc695180a802643c.jpg",
+    "static/media/work2.jpg": "/react-portfolio/static/media/work2.8c7a4c911e3a6397e1e0.jpg",
+    "static/media/work5.jpg": "/react-portfolio/static/media/work5.f3fe11eb1dbd452ddaff.jpg",
+    "static/media/work6.jpg": "/react-portfolio/static/media/work6.82c8e7e99825f2e6b936.jpg",
+    "static/media/sahil-cv.pdf": "/react-portfolio/static/media/sahil-cv.d8404f227818bb1106c8.pdf",
+    "static/media/work4.jpg": "/react-portfolio/static/media/work4.0b69f529a6db2cacdd29.jpg",
+    "static/media/work3.jpg": "/react-portfolio/static/media/work3.31804f91bcd1baeaabee.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.0faea6d2.css.map": "/react-portfolio/static/css/main.0faea6d2.css.map",
+    "main.2547f836.js.map": "/react-portfolio/static/js/main.2547f836.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0faea6d2.css",
+    "static/js/main.2547f836.js"
+  ]
+}
