@@ -15,7 +15,7 @@ const Footer =() =>{
                     <li>
                         <a href="#portfolio" className="footer__link">Project</a>
                     </li>
-
+ 
                     <li>
                         <a href="#contact" className="footer__link">Contact</a>
                     </li>
@@ -24,10 +24,10 @@ const Footer =() =>{
                 <a href=" https://github.com/sahil26k " className="footer__social-link" target="_blank">
                     <i class="bx bxl-github"></i>
                     </a>
-                    <a href=" www.linkedin.com/in/sahil-kashyap-0809a0135" className="footer__social-link" target="_blank">
+                    <a href=" https://www.linkedin.com/in/sahil-kashyap-0809a0135" className="footer__social-link" target="_blank">
                     <i class="bx bxl-linkedin"></i>
                     </a>
-                    <a href=" https://www.instagram.com/__sahil_k_/" className="footer__social-link" target="_blank">
+                    <a href=" https://www.instagram.com/saa.hiii.ll/" className="footer__social-link" target="_blank">
                     <i class="bx bxl-instagram"></i>
                     </a>  
                 </div>
